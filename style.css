@@ -7,7 +7,7 @@ body {
 }
 /* slider start */
 .carousel-item {
-  height: 550px;
+  height: 600px;
 }
 #carousel-info {
   height: 120%;
@@ -41,4 +41,4 @@ body {
   background-position: center;
 }
  /* slider end */
- 
+

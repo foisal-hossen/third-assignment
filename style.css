@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&family=Poppins:wght@400;500&display=swap');
+body {
+  font-family: "Poppins", sans-serif;
+}
+.register-btn {
+  left: 11rem;
+}
+/* slider start */
+.carousel-item {
+  height: 550px;
+}
+#carousel-info {
+  height: 120%;
+  width: 50%;
+}
+#carousel-cover-1 {
+  background: linear-gradient(
+      rgba(29, 29, 29, 0.7) 100%,
+      rgba(29, 29, 29, 0.7) 100%
+    ),
+    url("images/cover/cover-1.png");
+  background-size: cover;
+  background-position: center;
+}
+#carousel-cover-2 {
+  background: linear-gradient(
+      rgba(29, 29, 29, 0.7) 100%,
+      rgba(29, 29, 29, 0.7) 100%
+    ),
+    url("images/cover/cover-2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+#carousel-cover-3 {
+  background: linear-gradient(
+      rgba(29, 29, 29, 0.7) 100%,
+      rgba(29, 29, 29, 0.7) 100%
+    ),
+    url("images/cover/cover-3.jpg");
+  background-size: cover;
+  background-position: center;
+}
+ /* slider end */
+ 
